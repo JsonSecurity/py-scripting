@@ -1,0 +1,9 @@
+papel
+carton
+vidrio
+plastico
+textiles
+madera
+cuero
+empaques
+metales

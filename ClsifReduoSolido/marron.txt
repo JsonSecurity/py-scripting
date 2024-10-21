@@ -1,0 +1,4 @@
+comida
+alimentos
+hojas
+plantas

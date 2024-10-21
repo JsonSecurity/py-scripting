@@ -1,0 +1,5 @@
+pilas
+lamparas
+medicamentos
+medicina
+plaguisidas

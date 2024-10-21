@@ -1,0 +1,15 @@
+[Nombre]: Jhon
+[DNI]: 11
+
+[Nombre]: Josh
+[DNI]: 62
+
+[Nombre]: Marco
+[DNI]: 78
+
+[Nombre]: Mario
+[DNI]: 123456
+
+[Nombre]: Mari
+[DNI]: 79
+
