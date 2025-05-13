@@ -110,8 +110,8 @@ if __name__ == '__main__':
     print(u.banner)
 
     parser = argparse.ArgumentParser(description="Recorta imágenes PNG, renombra JPG y puede rotarlas.")
-    parser.add_argument("directory", type=str, help="Directorio donde están las imágenes.")
-    parser.add_argument("prefix", type=str, help="Prefijo para los nombres de los archivos procesados.")
+    parser.add_argument("<directory>", type=str, help="Directorio donde están las imágenes.")
+    parser.add_argument("<prefix>", type=str, help="Prefijo para los nombres de los archivos procesados.")
     parser.add_argument("--jpg", action="store_true", help="Convertir las imágenes PNG a JPG.")
     parser.add_argument("--enum", action="store_true", help="Activar modo enumeración (_1, _2, _3 en vez de aleatorio).")
     parser.add_argument("--rotate", action="store_true", help="Rotar imágenes horizontales para que queden verticales.")
